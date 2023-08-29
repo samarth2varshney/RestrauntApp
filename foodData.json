@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Margherita Pizza",
+    "description": "Classic tomato, mozzarella, and basil",
+    "price": 10.99,
+    "ingredients": ["Tomato Sauce", "Mozzarella Cheese", "Basil"],
+    "ratings": 4.5,
+    "reviews": 120,
+    "category": "veg"
+  },
+  {
+    "id": 2,
+    "title": "Pasta Carbonara",
+    "description": "Creamy pasta with bacon and parmesan cheese",
+    "price": 14.99,
+    "ingredients": ["Spaghetti", "Bacon", "Eggs", "Parmesan Cheese"],
+    "ratings": 4.2,
+    "reviews": 90,
+    "category": "non-veg"
+  },
+  {
+    "id": 3,
+    "title": "Veggie Burger",
+    "description": "Grilled vegetable patty with lettuce and mayo",
+    "price": 8.99,
+    "ingredients": ["Vegetable Patty", "Lettuce", "Mayonnaise"],
+    "ratings": 4.0,
+    "reviews": 80,
+    "category": "veg"
+  },
+  {
+    "id": 4,
+    "title": "Chicken Alfredo",
+    "description": "Creamy pasta with grilled chicken",
+    "price": 15.99,
+    "ingredients": ["Fettuccine", "Chicken", "Cream Sauce"],
+    "ratings": 4.3,
+    "reviews": 110,
+    "category": "non-veg"
+  },
+  {
+    "id": 5,
+    "title": "Vegetable Biryani",
+    "description": "Spicy rice dish with mixed vegetables",
+    "price": 12.99,
+    "ingredients": ["Basmati Rice", "Mixed Vegetables", "Spices"],
+    "ratings": 4.1,
+    "reviews": 95,
+    "category": "veg"
+  },
+  {
+    "id": 6,
+    "title": "Pepperoni Pizza",
+    "description": "Classic pizza with pepperoni and cheese",
+    "price": 11.99,
+    "ingredients": ["Tomato Sauce", "Pepperoni", "Mozzarella Cheese"],
+    "ratings": 4.4,
+    "reviews": 105,
+    "category": "non-veg"
+  },
+  {
+    "id": 7,
+    "title": "Mushroom Risotto",
+    "description": "Creamy rice dish with mushrooms and herbs",
+    "price": 13.99,
+    "ingredients": ["Arborio Rice", "Mushrooms", "Herbs"],
+    "ratings": 4.2,
+    "reviews": 100,
+    "category": "veg"
+  },
+  {
+    "id": 8,
+    "title": "Chicken Tikka Masala",
+    "description": "Spicy chicken curry with tomatoes and spices",
+    "price": 16.99,
+    "ingredients": ["Chicken", "Tomatoes", "Spices"],
+    "ratings": 4.5,
+    "reviews": 115,
+    "category": "non-veg"
+  },
+  {
+    "id": 9,
+    "title": "Spinach and Feta Stuffed Chicken",
+    "description": "Chicken breast stuffed with spinach and feta cheese",
+    "price": 17.99,
+    "ingredients": ["Chicken Breast", "Spinach", "Feta Cheese"],
+    "ratings": 4.4,
+    "reviews": 105,
+    "category": "non-veg"
+  },
+  {
+    "id": 10,
+    "title": "Caprese Salad",
+    "description": "Fresh tomato, mozzarella, and basil salad",
+    "price": 9.99,
+    "ingredients": ["Tomatoes", "Mozzarella Cheese", "Basil"],
+    "ratings": 4.0,
+    "reviews": 80,
+    "category": "veg"
+  },
+  {
+    "id": 11,
+    "title": "Shrimp Scampi",
+    "description": "Garlic butter shrimp served with pasta",
+    "price": 18.99,
+    "ingredients": ["Shrimp", "Garlic", "Butter", "Pasta"],
+    "ratings": 4.3,
+    "reviews": 110,
+    "category": "non-veg"
+  },
+  {
+    "id": 12,
+    "title": "Caesar Salad",
+    "description": "Classic Caesar salad with croutons and Caesar dressing",
+    "price": 7.99,
+    "ingredients": ["Romaine Lettuce", "Croutons", "Caesar Dressing"],
+    "ratings": 3.9,
+    "reviews": 75,
+    "category": "veg"
+  },
+  {
+    "id": 13,
+    "title": "BBQ Ribs",
+    "description": "Slow-cooked barbecue ribs with BBQ sauce",
+    "price": 19.99,
+    "ingredients": ["Pork Ribs", "BBQ Sauce"],
+    "ratings": 4.7,
+    "reviews": 125,
+    "category": "non-veg"
+  },
+  {
+    "id": 14,
+    "title": "Veggie Wrap",
+    "description": "Assorted vegetables wrapped in a tortilla",
+    "price": 8.49,
+    "ingredients": ["Assorted Vegetables", "Tortilla"],
+    "ratings": 3.8,
+    "reviews": 70,
+    "category": "veg"
+  },
+  {
+    "id": 15,
+    "title": "Sushi Platter",
+    "description": "Assorted sushi rolls with soy sauce and wasabi",
+    "price": 20.99,
+    "ingredients": ["Sushi Rice", "Assorted Fish", "Soy Sauce", "Wasabi"],
+    "ratings": 4.6,
+    "reviews": 115,
+    "category": "non-veg"
+  },
+  {
+    "id": 16,
+    "title": "Chocolate Cake",
+    "description": "Rich chocolate cake with a chocolate ganache topping",
+    "price": 6.99,
+    "ingredients": ["Chocolate Cake", "Chocolate Ganache"],
+    "ratings": 4.8,
+    "reviews": 130,
+    "category": "veg"
+  }
+]
